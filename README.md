@@ -1,2 +1,0 @@
-# myjsonserver
-for perley
